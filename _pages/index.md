@@ -2,8 +2,8 @@
 permalink: /
 layout: profile
 title: Profile
-page_color: '#ff0000'
-description: Page desc here
+page_color: red
+description: Grabriela Best - Associate Professor, Department of Economics, California State University Fullerton
 ---
 
 # Research and Teaching Interests

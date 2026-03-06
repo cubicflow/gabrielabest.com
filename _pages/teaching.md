@@ -2,8 +2,8 @@
 permalink: /teaching/
 layout: default
 title: Teaching
-page_color: '#800080'
-description: Page desc here
+page_color: purple
+description: Grabriela Best - Associate Professor, Department of Economics, California State University Fullerton
 ---
 
 # Classes

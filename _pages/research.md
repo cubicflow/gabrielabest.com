@@ -2,7 +2,7 @@
 permalink: research/
 layout: default
 title: Research
-page_color: '#ffa500'
+page_color: orange
 description: |-
   Policy Preferences and Policymakers' Beliefs
   The Great Inflation
