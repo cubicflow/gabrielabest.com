@@ -29,6 +29,8 @@ description: |-
 
 # Working Papers
 
+[The Determinants of Fed Policy: The Great Recession vs. the Great Inflation](https://gabrielabest.com/assets/Best_Hur_MS_preferences_JEBO.pdf)&nbsp;(under review).
+
 [News, Real-time Forecasts, and the Price Puzzle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2886190)&nbsp;(with [Pavel Kapinos](https://sites.google.com/site/pavelkapinos/)).
 
 Work in Progress
