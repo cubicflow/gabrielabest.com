@@ -134,11 +134,11 @@
 
   a {
     color: #b1b1b1 !important;
-    text-decoration: none;
+    text-decoration: none !important;
 
     &:hover {
       color: $light-grey !important;
-      text-decoration: none;
+      text-decoration: none !important;
     }
   }
 }

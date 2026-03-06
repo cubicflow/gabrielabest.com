@@ -3031,10 +3031,10 @@ kbd {
     margin-bottom: 15px; }
   .footer a {
     color: #b1b1b1 !important;
-    text-decoration: none; }
+    text-decoration: none !important; }
   .footer a:hover {
     color: #777777 !important;
-    text-decoration: none; }
+    text-decoration: none !important; }
 
 .header {
   overflow: auto; }
